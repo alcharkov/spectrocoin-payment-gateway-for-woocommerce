@@ -11,10 +11,12 @@
     1. Private key:
     ```shell
     # generate a 2048-bit RSA private key
-    openssl genrsa -out "C:\private" 2048
+    openssl genrsa -out "private.key" 2048
     ```
     2. Public key:
     ```shell
     # output public key portion in PEM format
-    openssl rsa -in "C:\private" -pubout -outform PEM -out "C:\public"
+    openssl rsa -in "private.key" -pubout -outform PEM -out "public.key"
     ```
+3. Add private key to plugin settings and public key to Spectrocoin project account
+4. Choose same receive currency for Wordpress plugin and spectrocoin.com prroject otherwise plugin would not work.
