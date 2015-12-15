@@ -19,4 +19,4 @@
     openssl rsa -in "private.key" -pubout -outform PEM -out "public.key"
     ```
 3. Add private key to plugin settings and public key to Spectrocoin project account
-4. Choose same receive currency for Wordpress plugin and spectrocoin.com prroject otherwise plugin would not work.
+4. Choose same receive currency for Wordpress plugin and spectrocoin.com project otherwise plugin would not work.
