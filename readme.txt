@@ -1,4 +1,4 @@
-=== Bitcoin Woo Payment Gateway ===
+=== Spectrocoin Woo Payment Gateway ===
 Contributors: Aleksandr Charkov
 Tags: payment gateway, spectrocoin payment gateway, spectrocoin woocommerce payment, woocommerce payment gateway, bitcoin, btc, xbt
 Requires at least: 4.4
