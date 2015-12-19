@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Bitcoin Woo Payment Gateway
+ * Plugin Name: Spectrocoin Woo Payment Gateway
  * Plugin URI: http://github.com/alcharkov/spectrocoin-payment-gateway-for-woocommerce
  * Description: Spectrocoin Payment Gateway for WooCommerce
  * Version: 0.1
